@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ikolchov
+- 👋 Hi,
 - 🌱 I’m currently learning python
-- 📫 How to reach me ikolchov@gmail.com
+
 
 <!---
 ikolchov/ikolchov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
